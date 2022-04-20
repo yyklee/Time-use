@@ -13,7 +13,7 @@ Project using American Time Use Survey (ATUS) to clean, explore and visualize da
 ### The goal of this project was to:
 1. explore data of interest 
 2. practice basic and advanced SQL codes (e.g., group by, joins, ctes, subqueries)
-3. practice basic statistical modeling using python
+3. practice statistical modeling using python
 4. visualizations 
 
 *Data obtained from: https://www.kaggle.com/datasets/bls/american-time-use-survey *
