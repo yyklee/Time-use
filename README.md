@@ -4,11 +4,11 @@ Project using American Time Use Survey (ATUS) to clean, explore and visualize da
 
 ### The general outline of the notebooks in this repo is as follows:
 1. [atus.sql](https://github.com/yyklee/Time-use/blob/main/atus.sql): Initial cleaning, exploration of ATUS data 
-2. [atus.R](https://github.com/yyklee/Time-use/blob/main/atus.R): Calculating average considering (or not) survey weight 
-3. [atussum.csv](https://github.com/yyklee/US-startups/blob/main/bds2019_st_sec.csv):ATUS summary data - individuals as unit (2003-2015)
+2. [atus.R](https://github.com/yyklee/Time-use/blob/main/atus.R): Comparing total average considering survey weight vs. without weight
+3. [atussum.csv](https://github.com/yyklee/US-startups/blob/main/bds2019_st_sec.csv): ATUS summary data - individuals as unit (2003-2015)
 4. [atus_lexicon.pdf](https://github.com/yyklee/Time-use/blob/main/atus_lexicon.pdf): ATUS dataset lexicon 
 5. [tab_viz](https://public.tableau.com/app/profile/younkyung.lee/viz/AmericanTimeUseSurvey/atusexp1): Dashboard 
-6. [atus_exploration.ipynb](https://github.com/yyklee/Time-use/blob/main/atus_exploration.ipynb): Initial stats modeling (quadratic regression) 
+6. [atus_exploration.ipynb](https://github.com/yyklee/Time-use/blob/main/atus_exploration.ipynb): Initial exploration using stats modeling (quadratic regression) 
 
 ### The goal of this project was to:
 1. explore data of interest 
